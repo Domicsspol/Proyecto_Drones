@@ -27,7 +27,15 @@ El proyecto aborda los siguientes conceptos de cálculo vectorial:
 - ⚙️ **Multiplicadores de Lagrange:** relacionados con la optimización bajo restricciones.
 - ∫ **Integrales múltiples:** relacionadas con el cálculo acumulado de magnitudes dentro del entorno.
 
-> **Nota:** El gradiente, los multiplicadores de Lagrange y las integrales múltiples forman parte del fundamento teórico de optimización del proyecto. Los campos escalares y las funciones vectoriales son los conceptos implementados directamente en el prototipo.
+> **Nota:** El gradiente, los multiplicadores de Lagrange y las integrales múltiples forman parte del fundamento teórico de optimización del proyecto. Los campos escalares, las funciones vectoriales y los campos vectoriales fueron seleccionados para su implementación en el prototipo.
+
+---
+
+## 👥 Integrantes
+
+- Jorge Luis López Tigua
+- Cristina Noheli Ochoa Agelvis
+- Naomi Dominic Pacheco Aguirre
 
 ---
 
